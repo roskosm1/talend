@@ -1,0 +1,11 @@
+# Global owners for the repository
+# These users will be requested for review on all PRs
+* @roskosm1 @vz42555_citi @vzateychuk
+
+# Documentation files
+*.md @roskosm1 @vz42555_citi @vzateychuk
+
+# Configuration files
+*.json @roskosm1 @vz42555_citi
+*.yml @roskosm1 @vz42555_citi
+*.yaml @roskosm1 @vz42555_citi
